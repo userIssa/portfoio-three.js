@@ -122,24 +122,11 @@ const technologies = [
 
 const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
-        icon: starbucks,
-        iconBg: "#383E56",
-        date: "March 2020 - April 2021",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
-    {
-        title: "React Native Developer",
-        company_name: "Tesla",
-        icon: tesla,
+        title: "Full stack Developer",
+        company_name: "NLNG",
+        icon: nlng,
         iconBg: "#E6DEDD",
-        date: "Jan 2021 - Feb 2022",
+        date: "Jan 2023 - Present",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -148,11 +135,24 @@ const experiences = [
         ],
     },
     {
-        title: "Web Developer",
-        company_name: "Shopify",
-        icon: shopify,
-        iconBg: "#383E56",
-        date: "Jan 2022 - Jan 2023",
+        title: "Full stack Developer",
+        company_name: "NLNG",
+        icon: nlng,
+        iconBg: "#E6DEDD",
+        date: "Jan 2023 - Present",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "Full stack Developer",
+        company_name: "NLNG",
+        icon: nlng,
+        iconBg: "#E6DEDD",
+        date: "Jan 2023 - Present",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -179,25 +179,25 @@ const testimonials = [
     {
         testimonial:
             "I thought it was impossible to make a website as beautiful as our product, but Tolu proved me wrong.",
-        name: "Sara Lee",
-        designation: "CFO",
-        company: "Acme Co",
+        name: "Anonymous",
+        designation: "Developer",
+        company: "Nigeria LNG",
         image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
         testimonial:
             "I've never met a web developer who truly cares about their clients' success like Tolu does.",
-        name: "Chris Brown",
-        designation: "COO",
-        company: "DEF Corp",
+        name: "Anonymous",
+        designation: "Data Analyst",
+        company: "Nigeria LNG",
         image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
         testimonial:
             "After Tolu optimized our website, our traffic increased by 50%. We can't thank them enough!",
-        name: "Lisa Wang",
-        designation: "CTO",
-        company: "456 Enterprises",
+        name: "Anonymous",
+        designation: "Data Analyst",
+        company: "Nigeria LNG",
         image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
 ];
@@ -289,7 +289,7 @@ const projects = [
         ],
         image: sql,
         source_code_link: "https://github.com/userIssa/lets-leave",
-        live_site: 'https://github.com/userIssa/lets-leav'
+        live_site: 'https://github.com/userIssa/lets-leave'
     },
 ];
 
