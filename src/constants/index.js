@@ -29,6 +29,7 @@ import {
     hacker,
     sql,
     meme,
+    gdsc,
 } from "../assets";
 
 export const navLinks = [
@@ -137,7 +138,7 @@ const experiences = [
     {
         title: "Cyber Security Lead",
         company_name: "Google Developers Club",
-        icon: nlng,
+        icon: gdsc,
         iconBg: "#E6DEDD",
         date: "Sept 2023 - Present",
         points: [
