@@ -36,7 +36,7 @@ import hacker from './hacker.png'
 import sql from './sql.png'
 import meme from './meme.png'
 import nlng from './nlng.png'
-import gdsc from './gdsc.jpg'
+import gdsc from './gdsc.png'
 
 export {
   logo,
