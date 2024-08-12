@@ -37,6 +37,7 @@ import sql from './sql.png'
 import meme from './meme.png'
 import nlng from './nlng.png'
 import gdsc from './gdsc.png'
+import dp from './default.jpeg'
 
 export {
   logo,
@@ -74,4 +75,5 @@ export {
   sql,
   nlng,
   gdsc,
+  dp,
 };
