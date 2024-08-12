@@ -30,6 +30,7 @@ import {
     sql,
     meme,
     gdsc,
+    dp,
 } from "../assets";
 
 export const navLinks = [
@@ -158,7 +159,7 @@ const testimonials = [
         name: "Anonymous",
         designation: "Developer",
         company: "Nigeria LNG",
-        image: "https://randomuser.me/api/portraits/women/4.jpg",
+        image: dp,
     },
     {
         testimonial:
@@ -166,7 +167,7 @@ const testimonials = [
         name: "Anonymous",
         designation: "Data Analyst",
         company: "Nigeria LNG",
-        image: "https://randomuser.me/api/portraits/men/5.jpg",
+        image: dp,
     },
     {
         testimonial:
@@ -174,7 +175,7 @@ const testimonials = [
         name: "Anonymous",
         designation: "Data Analyst",
         company: "Nigeria LNG",
-        image: "https://randomuser.me/api/portraits/women/6.jpg",
+        image: dp,
     },
 ];
 
