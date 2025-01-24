@@ -6,7 +6,6 @@ import { slideIn } from '../utils/motion'
 import { EarthCanvas } from './canvas'
 import { SectionWrapper } from '../hoc'
 
-
 const Contact = () => {
 
   const formRef = useRef();
@@ -30,7 +29,7 @@ const Contact = () => {
 
 
     emailjs.send(
-      'service_lp2ewgm',
+      'service_678q4ql',
       'template_de2n61t',
       {
         from_name: form.name,
