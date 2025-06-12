@@ -38,6 +38,7 @@ import meme from './meme.png'
 import nlng from './nlng.png'
 import gdsc from './gdsc.png'
 import dp from './default.jpeg'
+import steg from './steggg.png'
 
 export {
   logo,
@@ -76,4 +77,5 @@ export {
   nlng,
   gdsc,
   dp,
+  steg,
 };
