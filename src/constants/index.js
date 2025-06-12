@@ -31,7 +31,7 @@ import {
     meme,
     gdsc,
     dp,
-    steggg,
+    steg,
 } from "../assets";
 
 export const navLinks = [
@@ -287,7 +287,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: steggg,
+        image: steg,
         source_code_link: "https://github.com/userIssa/Stegoweb",
         live_site: 'https://stegoweb.onrender.com/'
     },
