@@ -289,7 +289,7 @@ const projects = [
         ],
         image: steg,
         source_code_link: "https://github.com/userIssa/Stegoweb",
-        live_site: 'https://stegoweb.onrender.com/'
+        live_site: 'https://stegoweb.up.railway.app/'
     },
 ];
 
