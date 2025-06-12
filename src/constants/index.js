@@ -31,6 +31,7 @@ import {
     meme,
     gdsc,
     dp,
+    steggg,
 } from "../assets";
 
 export const navLinks = [
@@ -267,6 +268,28 @@ const projects = [
         image: sql,
         source_code_link: "https://github.com/userIssa/lets-leave",
         live_site: 'https://github.com/userIssa/lets-leave'
+    },
+    {
+        name: "StegoWeb",
+        description:
+            "A web-based steganography tool for securely hiding and extracting data from image and audio files.",
+        tags: [
+            {
+                name: "python",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "html",
+                color: "green-text-gradient",
+            },
+            {
+                name: "css",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: steggg,
+        source_code_link: "https://github.com/userIssa/Stegoweb",
+        live_site: 'https://stegoweb.onrender.com/'
     },
 ];
 
